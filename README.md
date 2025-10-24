@@ -1,5 +1,5 @@
 # Local RAG
-Local RAG model finetuned with lightweight Google Colab T4 GPU
+Local RAG model finetuned with lightweight Google Colab T4 GPU and LoRA adapters
 
 See the link to observe the finetuned results
 https://colab.research.google.com/drive/1SbhFgW_pB_3X0K9MX8e1wdeqiAPBM5fP?usp=sharing
